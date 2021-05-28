@@ -14,3 +14,6 @@ https://doi.org/10.5281/zenodo.4778423
 
 ### Release v2.0
 
+Public data from ChEMBL (version 25) and PubChem for running MELLODDY-TUNER release v2.0:
+
+https://doi.org/10.5281/zenodo.4835669
